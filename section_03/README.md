@@ -9,7 +9,7 @@ Welcome! This section walks you through setting up the initial **Write Service**
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 3  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998263#overview)
 
 # ⚙️ Instructions and Commands
 

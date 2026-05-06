@@ -12,7 +12,7 @@ In this section, we introduce **API Gateway** to serve as the public entry point
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 6  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998271#overview)
 
 # ⚙️ Instructions and Commands
 

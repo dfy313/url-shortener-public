@@ -14,12 +14,12 @@ In this section, we take our **Read Service** from local development all the way
 ### 🔹 Part 1: Read Flask App Setup, Dockerization, and EC2 Deployment
 
 **Title:** Url Shortener – Section 7 (Part 1)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998273#overview)
 
 ### 🔹 Part 2: Launch Template, Autoscaling, Load Balancing
 
 **Title:** Url Shortener – Section 7 (Part 2)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998275#overview)
 
 # ⚙️ Instructions and Commands
 

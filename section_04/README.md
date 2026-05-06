@@ -9,7 +9,7 @@ In this section, we enhance the **Write Service** by using **Redis** for smarter
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 4  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998265#overview)
 
 # ⚙️ Instructions and Commands
 

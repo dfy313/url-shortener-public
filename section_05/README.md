@@ -9,7 +9,7 @@ In this section, we refactor the **Read Service** to improve performance using *
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 5  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998267#overview)
 
 # ⚙️ Instructions and Commands
 

@@ -9,7 +9,7 @@ Welcome! This section contains the setup instructions and demo walkthrough for b
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 1  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998247#overview)
 
 # ⚙️ Instructions and Commands
 

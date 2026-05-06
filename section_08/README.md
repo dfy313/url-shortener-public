@@ -15,12 +15,12 @@ In this section, we implement **Change Data Capture (CDC)** using AWS DMS and Ki
 ### 🔹 Part 1: Set Up CDC Producer with DMS + Kinesis
 
 **Title:** Url Shortener – Section 8 (Part 1)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998281#overview)
 
 ### 🔹 Part 2: Consume Kinesis Events with Lambda
 
 **Title:** Url Shortener – Section 8 (Part 2)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998285#overview)
 
 # ⚙️ Instructions and Commands
 

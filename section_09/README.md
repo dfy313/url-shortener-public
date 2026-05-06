@@ -16,13 +16,13 @@ In this section, we’ll migrate our URL shortener from a standalone MySQL datab
 
 ### 🔹 Part 1: Aurora Setup, Data Reset & Service Rebuild
 
-**Title:** Url Shortener – Section 8 (Part 1)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Title:** Url Shortener – Section 9 (Part 1)  
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998289#overview)
 
 ### 🔹 Part 2: Enable CDC + Validate Full System
 
-**Title:** Url Shortener – Section 8 (Part 2)  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Title:** Url Shortener – Section 9 (Part 2)  
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998291#overview)
 
 # ⚙️ Instructions and Commands
 

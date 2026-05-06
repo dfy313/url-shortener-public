@@ -10,7 +10,7 @@ From there, we’ll walk through safely deleting the most expensive resources �
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 10  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998297#overview)
 
 # ⚙️ Instructions and Commands
 

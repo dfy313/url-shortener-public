@@ -9,7 +9,7 @@ Welcome! This section walks you through setting up the **Read Service** of the U
 ## 🎥 Video Walkthrough
 
 **Title:** Url Shortener – Section 2  
-**Link:** [Watch on Udemy](https://www.udemy.com)
+**Link:** [Watch on Udemy](https://www.udemy.com/course/practical-system-design/learn/lecture/55998255#overview)
 
 # ⚙️ Instructions and Commands
 
