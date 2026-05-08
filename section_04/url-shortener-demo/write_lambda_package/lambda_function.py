@@ -104,8 +104,8 @@ def lambda_handler(event, context):
 if __name__ == "__main__":
     event = {
         "body": json.dumps({
-            "longUrl": "https://excalidraw.com/",      # REQUIRED
-            # "shortKey": "xyz321",                      # Optional
+            "longUrl": "https://google.com/",      # REQUIRED
+            "shortKey": "abc123",                      # Optional
             # "expirationTime": "2030-04-01T23:59:59Z"   # Optional
         }),
     }
