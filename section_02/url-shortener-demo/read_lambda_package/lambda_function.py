@@ -51,7 +51,7 @@ def lambda_handler(event, context):
 if __name__ == "__main__":
     event = {
         "pathParameters": {
-            "shortKey": "xyz321"
+            "shortKey": "abc123"
         }
     }
     res = lambda_handler(event, None)
