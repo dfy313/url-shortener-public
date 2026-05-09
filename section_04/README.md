@@ -254,7 +254,7 @@ zip -r lambda_function.zip .
 
 - <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/powershell_128.svg" width="18" /> On **Windows PowerShell**:
   ```bash
-  Compress-Archive -Path * -DestinationPath lambda_function.zip
+  tar -a -c -f lambda_function.zip *
   ```
 
 ### 12. Send Test Events in AWS Lambda Console
