@@ -227,7 +227,7 @@ http://<PASTE_YOUR_PUBLIC_IPV4_ADDRESS>:5000/url/xyz321
 ```
 
 > 💡 _Replace `<PASTE_YOUR_PUBLIC_IPV4_ADDRESS>` with your EC2 instance’s public IPv4 address._  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Be sure to include both the `http://` prefix and `:5000` port number._
+> &nbsp;&nbsp;&nbsp;&nbsp; _Be sure to include both the `http://` prefix and `:5000` port number._
 
 <br>
 
