@@ -74,6 +74,8 @@ touch consumer_lambda_package/lambda_function.py
 
 ### 3. Package Consumer Lambda and Dependencies for Upload
 
+> _Please make sure your virtual environment is activated. You can revisit **[Section 7 (Part 1) → Step 1](/section_07/README.md#1-activate-python-virtual-environment)** for the exact command._
+
 Navigate into the package directory:
 
 ```bash
