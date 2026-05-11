@@ -151,6 +151,15 @@ http://127.0.0.1:5000/url/xyz321
   http://localhost:5000/url/xyz321
   ```
 
+Stop the running Docker container:
+
+```bash
+docker ps
+docker stop <CONTAINER_ID>
+```
+
+> _You can find the `<CONTAINER_ID>` value from the `docker ps` output._
+
 ### 7. Build & Push the Image for the Correct Architecture
 
 Log out and log back into Docker:
