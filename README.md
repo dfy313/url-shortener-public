@@ -14,6 +14,7 @@ Each section builds incrementally toward a production-ready distributed system, 
 
 | Section | Content                                             |
 | ------- | --------------------------------------------------- |
+| 0       | [URL Shortener Workflow Demo](./section_00)         |
 | 1       | [MySQL Setup & Schema Design](./section_01)         |
 | 2       | [Read Service Lambda Setup + Testing](./section_02) |
 | 3       | [Write Service + URL Generation](./section_03)      |
